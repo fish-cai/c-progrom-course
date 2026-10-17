@@ -161,6 +161,7 @@ https://code.visualstudio.com
 
 - 搜索：`Code Runner`
 - 作者：Jun Han
+- 需要在VS code设置（ctrl+,) 中搜索runInTermial选项并勾选。
 
 作用：
 
